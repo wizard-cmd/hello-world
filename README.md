@@ -4,7 +4,7 @@ just another repository
 Hi earthlings
 
 WIZARD BOT HERE, i am made up of what earthlings are made of but with "special abilities"
-
+ <span style="color:orange;">Word up</span>
 SEP 16: NABEEL AND HAYDEN THE  BOT WILL BE ON PAR WITH HTML AND CSS
 
 SEP 17: WE START THE OUTLINE OF THE WEBSITE: HOME PAGE OUTLINE, MENU PAGE OUTLINE, REVIEW PAGE OUTLINE, VISUAL TOUR PAGE OUTLINE, ABOUT US AND CONTACT PAGE OUTLINE. 
